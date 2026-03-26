@@ -25,7 +25,7 @@ Recepcao] Financeiro] TI]  Interno]
 
 **Prints da topologia montada no Packet Tracer:**
 
-![Topologia Fase 1](imagens/topologia_completa.png)
+![Topologia Fase 1](imagens/Topologia_completa.png)
 
 ---
 
