@@ -23,7 +23,7 @@ Parece simples isso, mas é exatamente o tipo de tarefa que cai no colo de um an
 Recepcao] Financeiro] TI]  Interno]
 ```
 
-**Prints da topologia montada no Packet Tracer:**
+**Print da topologia montada no Packet Tracer:**
 
 ![Topologia Fase 1](imagens/Topologia_completa.png)
 
@@ -104,7 +104,7 @@ GigabitEthernet0/2  unassigned   YES unset  administratively down  down
 A coluna `Status` mostra o estado físico (cabo conectado) e a coluna `Protocol` mostra o estado lógico. Os dois precisam estar `up` 
 para a interface funcionar.
 
-**Screenshot da CLI com os comandos e o `show ip interface brief`:**
+**Print da CLI com os comandos e o `show ip interface brief`:**
 
 ![CLI Roteador](imagens/comandos_roteador.png)
 
@@ -125,7 +125,7 @@ C:\>ping 192.168.1.22   → PC-TI
 
 **Resultado:** 4 pacotes enviados, 4 recebidos, 0% de perda nos três testes.
 
-**Screenshot dos pings realizados:**
+**Print dos pings realizados:**
 
 ![Ping Servidor](imagens/ping_servidor.png)
 
